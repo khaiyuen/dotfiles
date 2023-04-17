@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = khaiyuen@gmail.com
+	name = Khai Yuen Looi
